@@ -1,0 +1,58 @@
+*{
+    margin: 0px;
+    padding:0px
+}
+
+
+body{       
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+h1{
+    font-family: 'Heebo', sans-serif;
+}
+
+h4{
+    text-transform: uppercase;
+    font-weight: 700;
+}
+p{
+    font-family: 'Work Sans', sans-serif; 
+    font-size: 17px;
+}
+
+
+/* slider section styling */
+
+#feedback{
+    background: rgb(35, 61, 82);
+    color: #f5f5f5;
+    padding: 30px 50px;
+}
+
+.hr_style{
+    border: 5px dotted #f5f5f5;
+    border-bottom: none;
+    width: 50px;
+    margin: 0 auto;
+   
+}
+
+.carousel-item{
+    text-align: center;
+    padding: 60px 20px;
+}
+
+.carousel-item img{
+    width: 200px;
+    height: 200px;
+    
+}
+.carousel-item p{
+    font-style: italic;
+}
+
+.carousel-indicators{
+    bottom: -15px;
+}
